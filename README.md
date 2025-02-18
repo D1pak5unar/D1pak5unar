@@ -4,7 +4,6 @@
 - 📫 How to reach me www.linkedin.com/in/dipaksunar (LinkedIN)
 - 📑 Read my blog at substack https://dipaksunar.substack.com/ [The Firewall Files ]
 
-- ⚡ Fun fact: ??
 <!---
 D1pak5unar/D1pak5unar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
